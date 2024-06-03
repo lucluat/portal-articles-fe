@@ -1,0 +1,11 @@
+.custom-table th {
+    background-color: rgb(52, 99, 219) !important;
+    color: white !important;
+    text-align: center !important;
+  }
+  
+  .custom-table th, .custom-table td {
+    text-align: left;
+    /* padding: 8px; */
+  }
+  

@@ -1,0 +1,18 @@
+#album .ablum-filter .ant-card-body {
+  backdrop-filter: blur(50px);
+  background: rgba(0, 0, 0, 0.464);
+  color: #ffffff;
+}
+.article-list {
+  max-height: 565px;
+  overflow-y: auto;
+}
+.father_of_cbb .ant-select-selector{
+  width: 120px !important;
+  background: none !important;
+  color: white !important;
+  border: none !important;
+}
+.father_of_cbb .ant-select-arrow{
+  color: white !important;
+}
